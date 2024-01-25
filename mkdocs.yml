@@ -45,8 +45,8 @@ theme:
   icon:
     repo: fontawesome/brands/github
 ## [top-right corner]
-repo_url: https://github.com/lscll6/lscll6.github.io # 右上角点击跳转的链接
-repo_name: luosc.github.io # 右上角的名字
+repo_url: https://github.com/imauctf/imauctf.github.io # 右上角点击跳转的链接
+repo_name: imauctf.github.io # 右上角的名字
 ## [bottom-left corner]
 copyright:  Copyright © 2024 IMAUCTF  # 左下角的版权声明
 ## [bottom-right corner]
@@ -54,7 +54,7 @@ extra:
   generator: false  #删除页脚显示“使用 MkDocs 材料制造”
   social: # icons
     - icon: fontawesome/brands/github
-      link: https://github.com/lscll6
+      link: https://github.com/imauctf/imauctf.github.io
       name: GitHub | luosc
 
 # [Extensions]

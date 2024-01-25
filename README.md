@@ -1,2 +1,1 @@
-# imauctf.github.io
-imauctf
+# IMAU网络安全社团
